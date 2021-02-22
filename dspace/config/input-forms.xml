@@ -239,6 +239,22 @@ it, please enter the types and the actual numbers or codes.</hint>
        <stored-value>issn</stored-value>
      </pair>
      <pair>
+       <displayed-value>KODE PRODI</displayed-value>
+       <stored-value>kodeprodi</stored-value>
+     </pair>
+     <pair>
+       <displayed-value>NIM</displayed-value>
+       <stored-value>nim</stored-value>
+     </pair>
+     <pair>
+       <displayed-value>NIDN</displayed-value>
+       <stored-value>nidn</stored-value>
+     </pair>
+     <pair>
+       <displayed-value>NIDK</displayed-value>
+       <stored-value>nidk</stored-value>
+     </pair>
+     <pair>
        <displayed-value>Other</displayed-value>
        <stored-value>other</stored-value>
      </pair>
